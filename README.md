@@ -27,6 +27,10 @@ Example Use Cases
 	** Using this tool, export those .LNK files
 	** Run .LNK files against my winLNKViewer application using --mactime option to generate new timeline data.
 	** Incorporate new TSK body file into the original for additional timeline data.
+* User activity analysis
+	** TSK body file filtered by uid/gid/folder.
+	** Using this tool, export those files
+	** "Triage" files for more formal forensic analysis
 
 Dependencies
 ------------
